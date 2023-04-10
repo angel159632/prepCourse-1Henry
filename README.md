@@ -1,2 +1,1 @@
-# prepCourse-1Henry
-es mi primer repositorio pipipipi
+este proyecto  es una prueba  de como crear un repositorio y un nuevo commmit 
